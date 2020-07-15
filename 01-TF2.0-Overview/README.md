@@ -29,7 +29,7 @@ Train MNIST with a **fully connected network**:
 ```
 python fc_train.py
 ```
-![fc_train]
+<img src="fc_train.png" align="left" width="302" height="538">
 
 
 Train MNIST with a **convolutional network**:
