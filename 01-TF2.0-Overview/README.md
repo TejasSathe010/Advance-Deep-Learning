@@ -10,12 +10,12 @@ TensorFlow 2.0 is both simple and flexible, focusing on features like:
 - **tf.GradientTape:** Records gradients on-the-fly for automatic differentiation and backprop
 - **tf.function:** Pre-compile computational graphs from python functions with AutoGraph
 
-1. [Fully-connected Network] (https://github.com/tejassathe117/Advance-Deep-Learning/blob/master/01-TF2.0-Overview/conv_train.py) -
+1. ![Fully-connected Network](https://github.com/tejassathe117/Advance-Deep-Learning/blob/master/01-TF2.0-Overview/conv_train.py) -
 
 - we'll train a fully-connected neural network for MNIST handwritten digit recognition.
 
 
-2. [Convolutional Network] (https://github.com/tejassathe117/Advance-Deep-Learning/blob/master/01-TF2.0-Overview/fc_train.py) - 
+2. ![Convolutional Network](https://github.com/tejassathe117/Advance-Deep-Learning/blob/master/01-TF2.0-Overview/fc_train.py) - 
 
 - Convolution, pooling, and dropout layers for building more complex models
 - Visualizing training with TensorBoard
