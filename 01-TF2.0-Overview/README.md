@@ -29,6 +29,8 @@ Train MNIST with a **fully connected network**:
 ```
 python fc_train.py
 ```
+## Output
+
 ![](fc_train.png)
 
 
@@ -36,4 +38,6 @@ Train MNIST with a **convolutional network**:
 ```
 python conv_train.py
 ```
+## Output
+
 ![](conv_train.png)
